@@ -1,4 +1,4 @@
 es_source CaloTPGTranscoder = CaloTPGTranscoderULUTs { 
-  FileInPath hcalLUT1 = "CalibCalorimetry/CaloTPG/data/outputLUTtranscoder.dat"
+  FileInPath hcalLUT1 = "CalibCalorimetry/CaloTPG/data/outputLUTtranscoder_physics.dat"
   FileInPath hcalLUT2 = "CalibCalorimetry/CaloTPG/data/TPGcalcDecompress2.txt"
 }
